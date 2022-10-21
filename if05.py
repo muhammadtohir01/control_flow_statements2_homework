@@ -17,11 +17,11 @@ def main(n):
     if m<c:
         m=c
     if m<d:
-        m=d
-        
+        m=d  
     if m<f:
         m=f
-    return m
+    n = m
+    return n
     
 
-print(main(23958))
+print(main(101))
