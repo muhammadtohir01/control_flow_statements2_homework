@@ -20,7 +20,7 @@ def main(n):
         m=d
     if m<f:
         m=f
-    return int(m)
+    return m
     
 
-print(main(23456))
+print(main(23958))

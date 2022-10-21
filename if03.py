@@ -12,6 +12,6 @@ def main(a,b,c):
         return b
     if b<a and c>a and b<c:
         return a
-    if a<c and b>c and b>a :
+    if a<c and b>c and b>a:
         return c
-print(main(2,6,4))
+print(main(3,7,1))
